@@ -2,8 +2,8 @@
 <html lang="zh">
 
 <head>
-    <title>吃掉小鹿乃</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
+    <title>吃掉胡兴阳</title>
+    <meta itemprop="name" content="吃掉胡兴阳" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -64,16 +64,16 @@
                 </div>
                 <div id="setting" style="display: none;">
                     <div class="container mb-3">
-                        <input type="button" class="btn btn-secondary btn-lg" onclick="getClickBeforeImage()" value="设置点击前的图" style="left: 0">
+                        <input type="button" class="btn btn-secondary btn-lg" onclick="getClickBeforeImage()" value="********" style="left: 0">
                         <input type="file" id="click-before-image" accept="image/*" style="display: none;" onchange="saveClickBeforeImage()">
-                        <input type="button" class="btn btn-secondary btn-lg" onclick="getClickAfterImage()" value="设置点击后的图" style="right: 0">
+                        <input type="button" class="btn btn-secondary btn-lg" onclick="getClickAfterImage()" value="*******" style="right: 0">
                         <input type="file" id="click-after-image" accept="image/*" style="display: none;" onchange="saveClickAfterImage()">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="吃掉小鹿乃">
+                        <input type="text" id="title" class="form-control" placeholder="吃掉胡兴阳">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
